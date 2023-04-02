@@ -1,6 +1,3 @@
-# 2023-tp0-presentacion-abrilvallecillo
-2023-tp0-presentacion-abrilvallecillo created by GitHub Classroom
-
 <h2> Soy Abril Vallecillo</h2>
 
 <h3> Datos sobre mi</h3>
@@ -10,3 +7,5 @@
   <li>Tengo un hermano</li>
   <li>Me encanta la organizacion y el orden</li>
 </ol>
+
+https://photos.app.goo.gl/B4pZb7NyXKPG6UdU9
