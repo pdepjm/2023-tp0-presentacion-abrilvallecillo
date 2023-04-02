@@ -1,6 +1,12 @@
 <h2> Soy Abril Vallecillo</h2>
+<h3> Sobre mi</h3>
+<ul>
+  <li> Mi legajo es 2092207</li>
+  <li>Tengo 18, casi 19</li>
+  <li>Vivo en Almagro</li>
+</ul>
 
-<h3> Datos sobre mi</h3>
+<h3> Datos: </h3>
 <ol>
   <li>Me gusta leer</li>
   <li>Amo todo lo referido a las matematicas</li>
